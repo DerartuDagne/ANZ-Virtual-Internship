@@ -1,5 +1,5 @@
 
-# Exploratory Data Analysis
+# Exploratory Data Analysis at ANZ
 
 Exploratory Data Analysis or EDA is used to take insights from the data.
 
