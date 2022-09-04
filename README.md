@@ -1,6 +1,5 @@
-# Exploratory Data Analysis
 
-#[ Data Analytics at ANZ](https://www.example.com)
+#[  Exploratory Data Analysis](https://www.example.com)
 
 # About
 
