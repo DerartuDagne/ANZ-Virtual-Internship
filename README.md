@@ -49,6 +49,7 @@ customer_id = id for the customer's to differentiate them as unique.
 merchant_long_lat : the latitude and longitude location of the merchant.
 
 movement : mode of transaction (credit or debit).
+
 # About
 
 The Dataset that was given to us is based on a synthesised transaction dataset containing 3 months’ worth of transactions for 100 hypothetical customers. It contains purchases, recurring transactions, and salary transactions.
