@@ -1,4 +1,4 @@
-# ANZ-Virtual-Internship
+# Exploratory Data Analysis
 
 #[ Data Analytics at ANZ](https://www.example.com)
 
