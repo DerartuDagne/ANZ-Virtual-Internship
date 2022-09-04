@@ -21,3 +21,6 @@ Update: Visualization of datapoints done with Matplotlib, Seaborn, Plotly and Wo
 
 Goal: Build a regression and decision-tree prediction model.
 Update: Built for supervised and unsupervised models
+
+#Note
+My goal for this "virtual internship" project is to refine my data analysis skills and improve my insight gathering abilities.
