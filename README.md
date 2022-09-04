@@ -3,7 +3,15 @@
 
 Exploratory Data Analysis or EDA is used to take insights from the data.
 
+
+# About
+
+The Dataset that was given to us is based on a synthesised transaction dataset containing 3 months’ worth of transactions for 100 hypothetical customers. It contains purchases, recurring transactions, and salary transactions.
+
+The dataset is designed to simulate realistic transaction behaviours that are observed in ANZ’s real transaction data, so many of the insights we will gather will be genuine.
+
 # Features in the dataset :
+
 status : denotes the status of the transaction posted or authorized for transaction.
 
 card_present_flag : Did the customer have a card during the transaction (1.1 = Yes or 0.0 = No).
@@ -50,11 +58,6 @@ merchant_long_lat : the latitude and longitude location of the merchant.
 
 movement : mode of transaction (credit or debit).
 
-# About
-
-The Dataset that was given to us is based on a synthesised transaction dataset containing 3 months’ worth of transactions for 100 hypothetical customers. It contains purchases, recurring transactions, and salary transactions.
-
-The dataset is designed to simulate realistic transaction behaviours that are observed in ANZ’s real transaction data, so many of the insights we will gather will be genuine.
 
 #[Task 1:Exploratory Data Analysis](https://www.example.com)
 
